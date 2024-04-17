@@ -1,0 +1,32 @@
+html,
+body{
+    width: 100vw;
+    height: 100vw;
+    margin: 0;
+    padding: 0;
+    background-color:black;
+    align-items: center;
+    justify-content: center;
+}
+*{box-sizing: border-box;}
+main{
+    width: 40rem;
+    height: 90rem;
+    background-color: hsl(0deg, 0%, 100%);
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    padding: 2rem;
+}
+img{
+    width: 36rem;
+    height: 10rem;
+    border-radius: 5px;
+}
+.energy{
+    display: flex;
+    gap: 10rem;
+}
+@media screen {
+    
+}
